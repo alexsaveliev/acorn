@@ -25,7 +25,6 @@
   },
   "license": "MIT",
   "scripts": {
-    "prepublish": "node bin/build-acorn.js",
     "test": "node test/run.js"
   },
   "devDependencies": {
